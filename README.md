@@ -29,7 +29,7 @@ Sharpe, Calmar, monthly win rate, turnover and cost drag are computed in the not
 Robustness was checked across momentum lookback windows and portfolio sizes, and exit
 rules were defined for drawdown and beta-neutrality failure.
 
-## The honest conclusion
+## The conclusion
 
 This is in-sample evidence, not proof of live tradability. Specifically:
 
