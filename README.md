@@ -1,9 +1,7 @@
-# Market-Neutral-Equity-Strategy
 # Market-Neutral Equity Strategy
 
 Long momentum equities, hedged with index futures. Backtested 2013–2025, net of costs.
 
-![Equity curve and drawdown](assets_en/02_equity_drawdown_en.svg)
 
 ## What it does
 
